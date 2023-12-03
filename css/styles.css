@@ -42,6 +42,10 @@ body ul {
     color: #404bbf;
 }
 
+.nav-list a:focus {
+    color: #404bbf;
+}
+
 .nav-list-studio:active {
     text-decoration: underline;
 }
