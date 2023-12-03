@@ -105,29 +105,50 @@ color: #434455;
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.benefits-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 /* Section Our Team */
+.ourteam {
+    background-color: #F4F4FD;
+}
+
 .header2 {
     color: #2E2F42;
     text-align: center;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
 }
 
-footer {
-    background-color: #2E2F42;
-    color: #F4F4FD;
+.team-item {
+    background-color: #FFFFFF;
 }
 
-.footer-logo {
-    color: #F4F4FD;
-    font-family: Raleway;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
+/* Portfolio section */
+.portfolio {
+    background-color: #F4F4FD;
+}
+
+.footer {
+    background-color: #2E2F42;
+    /* color: #F4F4FD; */
+}
+
+.footer-logo-accent {
+    color: #f4f4fd;
+}
+
+.footer-text {
+    color: var(--CLOUD, #F4F4FD);
 }
