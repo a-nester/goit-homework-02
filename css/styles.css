@@ -50,15 +50,20 @@ body ul {
     text-decoration: underline;
 }
 
-.header-contacts a {
-    color: #434455; 
+.header-contacts { 
+    font-style: normal;
 }
 
-.header-contacts a:hover {
+.contacts-item {
+color: #434455;
+}
+
+
+.contacts-item a:hover {
     color: #404BBF;
 }
 
-.header-contacts a:hover {
+.contacts-item a:focus {
     color: #404BBF;
 }
 
