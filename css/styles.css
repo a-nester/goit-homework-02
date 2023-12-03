@@ -58,6 +58,10 @@ body ul {
     color: #404BBF;
 }
 
+.header-contacts a:hover {
+    color: #404BBF;
+}
+
 /* Hero section */
 .hero {
     background-color: #2E2F42;
