@@ -59,11 +59,11 @@ color: #434455;
 }
 
 
-.contacts-item a:hover {
+.contacts-item:hover {
     color: #404BBF;
 }
 
-.contacts-item a:focus {
+.contacts-item:focus {
     color: #404BBF;
 }
 
