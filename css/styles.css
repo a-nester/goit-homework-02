@@ -15,7 +15,7 @@ body ul {
 }
 
 /* header styles */
-.nav-logo {
+.logo {
     color: #4D5AE5;
     font-family: "Raleway", Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
@@ -25,7 +25,7 @@ body ul {
     text-transform: uppercase;
 }
 
-.nav-logo-accent {
+.logo-accent {
     color: #2e2f42;
     font-family: "Raleway", Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
